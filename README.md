@@ -3,7 +3,7 @@
 > C++17 + SDL2
 
 
-Emulateur **Chip‑8** minimal. Rendu via SDL2 (texture 64×32), bip audio, clavier mappé standard, timers 60 Hz, wrapping des sprites, instructions compatibles.
+Emulateur **Chip‑8** minimal. Rendu via SDL2, bip audio, clavier mappé standard, timers 60 Hz, wrapping des sprites, instructions compatibles.
 
 ![](https://github.com/sp4r1ng/chip8-emulator/blob/main/1.png?raw=true) 
 
